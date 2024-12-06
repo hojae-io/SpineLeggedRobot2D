@@ -18,7 +18,7 @@ Video Link: [https://youtu.be/XR6XnnfqJGA](https://youtu.be/XR6XnnfqJGA) <br/>
 
 ---
 ## User Manual ##
-## How Run the Simulation
+## How to Run the Simulation
 1. Choose the task ('rigid' or 'spine') in `main.m`
 2. Run `main.m`
 3. _(Optional)_ If you change the dynamics in either `buildLegDynamics_sym.m` or `buildSpineLegDynamics_sym.m`, you have to run this script first individually. It will update codegen codes.
