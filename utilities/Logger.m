@@ -76,9 +76,9 @@ classdef Logger < handle
             % obj.animate_joint_position_trajectory();
             % obj.animate_velocity_tracking_performance();
 
-            obj.save_joint_position_trajectory();
-            obj.save_joint_velocity_trajectory();
-            obj.save_foot_position_trajectory();
+            % obj.save_joint_position_trajectory();
+            % obj.save_joint_velocity_trajectory();
+            % obj.save_foot_position_trajectory();
         end
 
         function write_video(obj, frame)
