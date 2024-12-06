@@ -22,7 +22,7 @@ Video Link: [https://youtu.be/XR6XnnfqJGA](https://youtu.be/XR6XnnfqJGA) <br/>
 1. Choose the task ('rigid' or 'spine') in `main.m`
 2. Run `main.m`
 3. _(Optional)_ If you change the dynamics in either `buildLegDynamics_sym.m` or `buildSpineLegDynamics_sym.m`, you have to run this script first individually. It will update codegen codes.
-4. Some keyboard control:
+4. Some keyboard controls:
    - `L` : forward velocity command
    - `H` : backward velocity command
    - `R` : reset environment
@@ -32,16 +32,16 @@ Video Link: [https://youtu.be/XR6XnnfqJGA](https://youtu.be/XR6XnnfqJGA) <br/>
 ## Results
 Rigid robot:
 <div align="center">
-  <img width = "35.2%" src="https://github.com/user-attachments/assets/bf1a3eb6-73c2-4f84-8130-1126781ea470">
+  <img width = "40%" src="https://github.com/user-attachments/assets/bf1a3eb6-73c2-4f84-8130-1126781ea470">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width = "31%" src="https://github.com/user-attachments/assets/acc1f296-b41e-4d8c-be9e-1c502ec0b8ea">
+  <img width = "35%" src="https://github.com/user-attachments/assets/acc1f296-b41e-4d8c-be9e-1c502ec0b8ea">
 </div>
 
 Spine Robot:
 <div align="center">
-  <img width = "35%" src="https://github.com/user-attachments/assets/c0768579-46d7-4d2d-a82d-8c89dfd2e2e9">
+  <img width = "40%" src="https://github.com/user-attachments/assets/c0768579-46d7-4d2d-a82d-8c89dfd2e2e9">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width = "30.5%" src="https://github.com/user-attachments/assets/eef928dc-e7e3-49c8-8033-e242feae4aac">
+  <img width = "35%" src="https://github.com/user-attachments/assets/eef928dc-e7e3-49c8-8033-e242feae4aac">
 </div>
 
 You can check more analysis results in `analysis` folder.
